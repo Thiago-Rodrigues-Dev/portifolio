@@ -101,9 +101,9 @@ body {
     background-color: var(--cor-hover);
 }
 
-.apresentacao__imagem {
+/*.apresentacao__imagem {
     width: auto;
-}
+}*/
 
 .rodape {
     color: var(--cor-primaria);
