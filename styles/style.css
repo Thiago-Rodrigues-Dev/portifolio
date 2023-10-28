@@ -84,7 +84,7 @@ body {
 .apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
-    gap: 14px;
+    gap: 18px;
     border: 2px solid var(--cor-terciaria);
     width: 50%;
     text-align: center;
